@@ -4,6 +4,7 @@
 	"description": "A js course Project practice files",
 	"keywords": ["freecodecamp","express", "node"],
 	"license":"MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
