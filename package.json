@@ -3,6 +3,7 @@
 	"author": "Elias Ballen",
 	"description": "A js course Project practice files",
 	"keywords": ["freecodecamp","express", "node"],
+	"license":"MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
